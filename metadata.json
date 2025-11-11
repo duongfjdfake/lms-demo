@@ -1,0 +1,5 @@
+{
+  "name": "LMS-demo",
+  "description": "A lightweight, easy-to-use Learning Management System for direct viewing of image/PDF submissions and online grading. No file downloads required.",
+  "requestFramePermissions": []
+}
