@@ -63,8 +63,8 @@ const Sidebar: React.FC<SidebarProps> = ({ currentRole, currentView, onRoleChang
         </ul>
       </nav>
       <div className="mt-auto text-center text-gray-400 text-xs">
-          <p>Phát triển bởi AI</p>
-          <p>&copy; 2024</p>
+          <p>Phát triển bởi Edgar Dương</p>
+          <p>&copy; 2025</p>
       </div>
     </div>
   );
